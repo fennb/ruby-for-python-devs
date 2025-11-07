@@ -1,4 +1,6 @@
-# Ruby for Python Developers
+# From `__init__` to `initialize`: A Tale of Two Underscores
+
+## Ruby for Python Developers
 
 Welcome to **Ruby for Python Developers**, a comprehensive course designed to help experienced Python programmers quickly learn Ruby by highlighting the similarities and differences between the two languages.
 
